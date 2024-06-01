@@ -59,26 +59,28 @@ for GET requests on the 3 ULRs the following happens:
         * Update URL
         * Delete URL
 
-### Read
+### Read (same as automatic process)
 * Returns file
 * Returns
     * Returns file
     * HTTP status code
         
-
-### Update (PATCH)
+### Update
 * Updates file
-* Parameters
-    * Valid Update URL
-    * New file
-* Returns
-    * HTTP status code
+* Provides GUI with the following:
+    * Instructions
+    * Link to current file
+    * Upload new file button
+* Return GUI
+    * Returns to update GUI
+    * Displays status of operation
 
-### Delete (DELETE)
+### Delete
 * Deletes file
-* Parameters
-    * Valid Delete URL
-* Returns
-    * HTTP status code
-
+* Provides GUI with the following:
+    * Instructions
+    * Link to current file
+    * Delete file button
+* Return GUI
+    * Displays status of operation
 
