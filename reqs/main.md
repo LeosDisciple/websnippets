@@ -7,7 +7,11 @@ This allows applications to interact with the service to execute CRUD operations
 ### Create (POST)
 * Allows to upload a new file
 * Returns
-  * 
+    * Status
+    * 3 URLs
+        * Read URL
+        * Update URL
+        * Delete URL
 
 ### Read (GET)
 
