@@ -5,7 +5,7 @@
 |------------|------------|------------|------------|------------|
 | Create | Upload new file | POST | New file | Status, 4 URLs (Master, Read, Update, Delete) |
 | Read | Read existing file | GET | Read URL | Status, file |
-| Update | Update existing file | PATCH | Update URL, new file | Status |
+| Update | Update existing file | PUT | Update URL, new file | Status |
 | Delete | Delete existing file | DELETE | Delete URL | Status |
 | Master | All URLs of file | GET | Master URL | Status, 4 URLs (Master, Read, Update, Delete) |
 
