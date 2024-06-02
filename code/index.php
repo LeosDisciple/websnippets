@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to Websnippets!";
+echo "Welcome to Websnippets 2024!";
 ?>
