@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to WebSnippets!";
+echo "Welcome to Websnippets!";
 ?>
