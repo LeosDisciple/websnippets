@@ -10,7 +10,7 @@
 * The user might want to see the file names in his owerview in order to know what the files contain
 * The user might want to download a file with the initial upload name of the file
 * But it's oftentimes interesting to display the file automatically in the browser (which seems not to happen, if the server returns the file name -> see explanation below)
-* -> Test different option, deepen research and decide
+* -> Test different option, deepen research and decide =D
 
 ### How to pass the file name
 The HTTP response itself does not inherently include the filename of the JPEG or any file being sent. However, a server can optionally include the filename in the headers using the Content-Disposition header, which is often used to suggest how the content is to be handled by the client.
