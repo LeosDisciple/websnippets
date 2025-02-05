@@ -1,5 +1,5 @@
 # Web Snippets
-A hosted framework allowing the anonymous upload (create), read, update and delete of files.
+A backend framework allowing **anonymous** and **authorized** access to REST resources.
 
-# Requirements
-See [Requirements](./reqs/main.md)
+# Concept 
+See [Wiki](https://github.com/LeosDisciple/websnippets/wiki)
